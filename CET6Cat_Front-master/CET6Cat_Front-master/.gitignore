@@ -1,0 +1,7 @@
+/node_modules
+.idea/
+/ignore
+.vscode/
+/src/assets/videos
+/static/*
+!/static/*.gif
