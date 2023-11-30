@@ -1,7 +1,7 @@
 <template>
   <header>
     <h2>{{title}}</h2>
-    <router-link to="/app/home/index">IELTSCat</router-link>
+    <router-link to="/app/home/index">Cet6Cat</router-link>
   </header>
 </template>
 

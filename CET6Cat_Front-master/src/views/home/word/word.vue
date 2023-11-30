@@ -5,7 +5,7 @@
       <h2>背单词</h2>
       <el-breadcrumb separator-class="el-icon-arrow-right">
         <el-breadcrumb-item :to="{ path: '/app/home/index' }">首页</el-breadcrumb-item>
-        <el-breadcrumb-item雅思词汇</el-breadcrumb-item>
+        <el-breadcrumb-item>六级词汇</el-breadcrumb-item>
       </el-breadcrumb>
     </div>
     <!-- 2 主体容器 -->

@@ -54,7 +54,7 @@ export default {
         },
         series: [
           {
-            name: "雅思单词",
+            name: "六级单词",
             type: "wordCloud",
             size: ["100%", "100%"],
             textRotation: [0, 45, 90, -45],

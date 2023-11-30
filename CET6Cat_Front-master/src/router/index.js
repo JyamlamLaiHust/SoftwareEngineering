@@ -114,7 +114,7 @@ let router = new Router({
               name: "word",
               component: word,
               meta: {
-                title: "雅思词汇",
+                title: "六级词汇",
                 need_log: true
               }
             },

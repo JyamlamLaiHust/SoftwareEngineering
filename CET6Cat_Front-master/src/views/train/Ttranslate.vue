@@ -12,7 +12,7 @@
       align="center"
     >
       <el-table-column prop="id" label="ID" width="180" align="center"></el-table-column>
-      <el-table-column prop="name" label="翻译" width="700" align="center"></el-table-column>
+      <el-table-column prop="name" label="听力" width="700" align="center"></el-table-column>
     </el-table>
     <!-- 3 页面加载时展示 -->
     <div v-else id="load-box">

@@ -192,7 +192,7 @@ export default {
           .then(res => {
             this.isUpload = true;
             this.$message({
-              message: "答卷上传成功!IELTSCat已经记录您本次测验的错误单词。",
+              message: "答卷上传成功!CET6Cat已经记录您本次测验的错误单词。",
               type: "success"
             });
           })

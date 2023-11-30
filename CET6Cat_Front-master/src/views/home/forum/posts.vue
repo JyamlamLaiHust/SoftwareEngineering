@@ -89,7 +89,7 @@
         </el-col>
         <el-col :span="16">
           发帖请遵守
-          <router-link to>IELTSCat社区规范</router-link>
+          <router-link to>CET6Cat社区规范</router-link>
         </el-col>
       </el-row>
       <!-- 5-2 回复表单  -->

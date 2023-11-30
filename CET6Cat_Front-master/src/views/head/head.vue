@@ -24,7 +24,7 @@
     <!-- 2 图标和搜索栏 -->
     <div class="top-show">
       <div class="logo">
-        <!--<h2>IELTSCat辅导</h2>-->
+        <!--<h2>CET6Cat六级辅导</h2>-->
         <img src="../../assets/vue.png" alt="Vue.js">
       </div>
       <div class="top-search">
@@ -66,7 +66,7 @@
         -->
         <el-menu-item index="/app/home/course">在线视频</el-menu-item>
         <el-menu-item index="/app/home/forum">交流论坛</el-menu-item>
-        <el-menu-item index="/app/home/word">雅思词汇</el-menu-item>
+        <el-menu-item index="/app/home/word">六级词汇</el-menu-item>
         <el-menu-item index="/app/home/reading">阅读分析</el-menu-item>
         <el-menu-item index="/app/home/essay">高分作文</el-menu-item>
       </el-menu>
